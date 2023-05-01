@@ -21,7 +21,7 @@ then make a .env file to store the MongoDB database by using following:
 ```bash
 touch .env
 ```
-#### set the database
+#### setup the database
 We have used MongoDB as our database
 To install mongodb in local environment you can follow their official guideline [here](https://www.mongodb.com/docs/manual/installation/)
 
@@ -42,10 +42,10 @@ After all the setup you can run your backend server with the following command:
 npm start
 ```
 
-Then you see the backend up and running in [http://localhost:5000](http://localhost:5000)
+Then you can see the backend up and running in [http://localhost:5000](http://localhost:5000)
 
 ### Set up the Frontend
-Go to the frontedn folder by following:
+Go to the frontend folder by following:
 
 ```bash
 cd ../frontend
