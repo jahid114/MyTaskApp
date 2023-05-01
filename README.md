@@ -58,4 +58,10 @@ npm install
 ```bash
 npm start
 ```
+## ScreenShot
 
+![Home](./assets/Home.png)
+
+![Login](./assets/login.png)
+
+![SignUp](./assets/signUp.png)
